@@ -1,0 +1,9 @@
+{
+	"FISAT":
+		{
+			"isUpdateAvailable" :true,
+			"latest":2,
+      "need_Force_Update":true,
+      "link":"blahblahblah"
+      }
+}
