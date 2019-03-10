@@ -1,8 +1,7 @@
 {
 	"Update":
 	{
-		"isUpdateAvailable" :true,
-		"latest":3,
+		"latest":3.0,
 		"need_Force_Update":false,
 		"link":"blahblahblah"
 	}
